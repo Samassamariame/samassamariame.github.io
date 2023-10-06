@@ -55,6 +55,9 @@
     text-decoration: none;
     padding: 10px;
     transition: background-color 0.3s;
+     font-family: 'Inter', sans-serif;
+    font-family: 'Young Serif', serif;
+    font-size: 12px;
 }
 
 #menu a:hover {
@@ -561,5 +564,14 @@ h2{
     }
     #header-unique {
         margin-left: 10px;
+    }
+
+    #contact_main{
+       flex-direction: column;
+    }
+    #about-image{
+    width: 120px;
+    height: 200px;
+
     }
 }
