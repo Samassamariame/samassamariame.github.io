@@ -574,4 +574,16 @@ h2{
     height: 200px;
 
     }
+    #texte2 {
+        font-size: 12px;
+    }
+    #skills-top{
+        width: 70%;
+    }
+    #skills-bottom{
+        width: 70%;
+    }
+    #unique3{
+        padding-bottom: 30px;
+    }
 }
