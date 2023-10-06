@@ -572,6 +572,7 @@ h2{
     #about-image{
     width: 120px;
     height: 200px;
+    margin-right: 15px;
 
     }
     #texte2 {
@@ -586,4 +587,20 @@ h2{
     #unique3{
         padding-bottom: 30px;
     }
+    #about1-texte {
+        display:none
+    }
+    #left1-texte {
+        font-size: 13px;
+    }
+    #right1-texte{
+        font-size: 13px;
+    }
+    #left2-texte{
+        font-size: 13px;
+    }
+    #right2-texte{
+        font-size: 13px;
+    }
+    
 }
